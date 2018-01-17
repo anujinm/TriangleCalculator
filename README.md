@@ -8,3 +8,5 @@ A cross-platform application used for geometric purposes.
     It has adjustable precision and angle preference.
     It's resizeable
    ![calcss](http://anujin.com/assets/images/Triangle/2-calc.png)
+   ![calcss](http://anujin.com/assets/images/Triangle/3-pref.png)
+
