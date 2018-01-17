@@ -7,3 +7,4 @@ A cross-platform application used for geometric purposes.
     To give a better visual presentation, it draws the triangle with its circumscribed circle for you.
     It has adjustable precision and angle preference.
     It's resizeable
+    ![calcss](http://anujin.com/assets/images/Triangle/2-calc.png)
